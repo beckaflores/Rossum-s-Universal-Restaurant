@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Supermercado+One');
+
+
+nav {font-family: Lato; font-size: 18px;}
+
+body {
+    background-image: "map-bg.jpg";
+ }
